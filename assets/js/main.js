@@ -35,20 +35,20 @@ document.querySelectorAll('.scene-parallax').forEach((elem) => {
 		
 });
 var title = [
-	"Lima Dasar Hidup Sehat",
-	"1. Gaya Hidup Sehat",
-	"2. Aktif Mandiri",
-	"3. Pengendalian Stress",
-	"4. Terus Belajar",
-	"5. Hidup Positif",
+	"Lima Dasar Kesehatan Mental",
+	"1. Pola Hidup Sehat",
+	"2. Manajemen Stress",
+	"3. Keseimbangan Emosi",
+	"4. Interaksi Sosial Positif",
+	"5. Pemahaman Kondisi Diri",
 ];
 var text = [
-	"Lima Dasar Hidup Sehat (LDHS) adalah program nasional yang digagas oleh Kementerian Pemberdayaan Perempuan dan Perlindangan Anak Republik Indonesia sebagai solusi menghadapai penyakit autoimun, program ini salah satunya didasari oleh 80% sistem imun manusia dari pencernaan.",
-	"Gaya hidup sehat contohnya tidur cukup 8 jam sehari, menghindari konsumsi daging merah, makanan yang mengandung pengawet dan pemanis, makanan kaleng, mie kuning, mengganti nasi putih menjadi nasi merah, mengonsumsi makanan organik, mengonsumsi air alkali, pemeriksaan kesehatan berkala, dan menjaga kebersihan lingkungan",
-	"Aktif mandiri contohnya olahraga ringan minimal 30 menit setiap hari karena penyintas autoimun biasanya gak bisa terlalu lelah dan menanam bahan pangan sendiri",
-	"Pengendalian stres contohnya mendekatkan diri pada Tuhan Yang Maha Esa, manajemen waktu yang baik, dan komunikasi positif",
-	"Terus belajar contohnya aktif bergabung dengan komunitas pembelajar, ketahui hak dan kewajiban pasien, ketahui informasi obat-obatan yang berkaitan dengan penyakit Autoimun, dan mengelola keuangan dengan baik",
-	"Hidup positif contonya menyeimbangkan otak, bekerja cerdas, dan selalu tersenyum serta bahagia setiap saat"
+	"Lima Dasar Kesehatan Mental (LDKM) adalah prinsip yang dapat membantu menjaga dan meningkatkan keseimbangan mental seseorang. Konsep ini sejalan dengan pendekatan Depression Anxiety Stress Scales (DASS 42) yang bertujuan untuk mengukur kondisi mental secara menyeluruh. Berikut adalah lima dasar kesehatan mental yang dapat diterapkan:",
+	"Keseimbangan antara pola makan bergizi, olahraga teratur, dan tidur yang cukup adalah fondasi untuk mendukung kesehatan mental dan fisik.",
+	"Mengelola stres melalui teknik relaksasi, meditasi, atau hobi dapat membantu menurunkan tekanan yang dialami sehari-hari.",
+	"Mengenali dan mengelola emosi dengan baik, termasuk mencari dukungan saat dibutuhkan, sangat penting untuk kesehatan mental.",
+	"Menjaga hubungan yang sehat dengan keluarga, teman, dan komunitas dapat meningkatkan rasa bahagia dan menurunkan tingkat kecemasan.",
+	"Menggunakan alat seperti DASS 42 untuk mengenali tingkat depresi, kecemasan, dan stres, memungkinkan seseorang memahami kondisi mental mereka dan mengambil tindakan tepat jika diperlukan."
 ];
 var now = 0;
 var max = title.length-1;
