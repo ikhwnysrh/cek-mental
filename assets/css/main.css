@@ -105,7 +105,7 @@ section{
     background-color: var(--primarycolor);
 }
 .navbar-brand{
-    margin-right:42px;
+    /* margin-right:42px; */
     font-size: 38px;
 }
 .nav-item{

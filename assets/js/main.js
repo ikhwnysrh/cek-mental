@@ -2,7 +2,7 @@ AOS.init({
 	duration: 800,
 });
 var typed = new Typed('.txt a', {
-	strings: ['6 penyakit akibat gaya hidup tidak sehat'],
+	strings: ['6 penyakit akibat kesehatan mental tidak sehat'],
 	typeSpeed: 80,
 	backSpeed: 30,
 	loop: true,
